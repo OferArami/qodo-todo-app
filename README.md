@@ -25,3 +25,5 @@ During manual testing, I identified and fixed the following issues:
 2. **Tasks Lost After Page Refresh**  
    - **Issue**: All tasks were lost after refreshing the page due to lack of persistence.  
    - **Fix**: I added localStorage support to save and load the task list, ensuring tasks persist across sessions.
+
+<!-- Test PR for Qodo Merge -->
